@@ -1,0 +1,19 @@
+# Audio Processing and Digital Signal Processing (DSP)
+librosa>=1.0.0
+soundfile>=0.14.0
+scipy>=1.15.0
+numpy>=1.26.0
+
+# Machine Learning and Neural Modeling
+scikit-learn>=1.6.0
+joblib>=1.3.0
+pandas>=2.0.0
+
+# Visualization and Dashboard
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+streamlit>=1.28.0
+
+# Quality Assurance
+pytest>=7.4.0

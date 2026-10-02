@@ -1,0 +1,28 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# OS Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/
